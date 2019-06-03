@@ -1,0 +1,44 @@
+.card {
+  background: #fff;
+  border-radius: 6px;
+  height: 100%;
+  padding: 3px;
+  margin: 20px;
+  position: relative;
+  width: 400px;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+  text-align: left;
+}
+
+.card:hover {
+  -webkit-transition: .1s;
+  transition: .1s;
+  box-shadow: 0 9px 12px #999, 0 9px 12px #999;
+}
+
+.card > .img-container {
+  text-align: left;
+  background:white;
+}
+.card > .img-container > img {
+  margin-top: 1%;
+  width: 100%;
+}
+
+.tech-used {
+  border-top-color:#999;
+  border-top-width: 100%;
+}
+
+/* .card > .remove {
+  color: #ff1744;
+  font-size: 48px;
+  position: absolute;
+  top: -20px;
+  right: 5px;
+  cursor: pointer;
+}
+
+.card > .remove:hover {
+  color: #d50000;
+} */

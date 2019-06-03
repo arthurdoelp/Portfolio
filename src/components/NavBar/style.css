@@ -1,0 +1,14 @@
+.navbar {
+  width: 100%;
+  background-color: dimgrey;
+  margin-bottom: 50px;
+  color: white
+}
+
+.navbar a {
+  color: rgb(39, 39, 39);
+}
+
+.navbar a:hover {
+  color: rgb(102, 102, 102);
+}

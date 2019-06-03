@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "HTML"
+    },
+    {
+        "id": 2,
+        "name": "CSS"
+    },
+    {
+        "id": 3,
+        "name": "Bootstrap"
+    },
+    {
+        "id": 4,
+        "name": "Javascript"
+    },
+    {
+        "id": 4,
+        "name": "JQuery"
+    },
+    {
+        "id": 4,
+        "name": "APIs"
+    },
+    {
+        "id": 4,
+        "name": "AJAX"
+    },
+    {
+        "id": 4,
+        "name": "Moment.js"
+    },
+    {
+        "id": 4,
+        "name": "Node"
+    },
+    {
+        "id": 4,
+        "name": "Express"
+    },
+    {
+        "id": 4,
+        "name": "SQL"
+    },
+    {
+        "id": 6,
+        "name": "Firebase"
+    },
+    {
+        "id": 4,
+        "name": "ORM"
+    },
+    {
+        "id": 8,
+        "name": "Handlebars"
+    },
+    {
+        "id": 8,
+        "name": "MVC"
+    },
+    {
+        "id": 5,
+        "name": "Sequelize"
+    },
+    {
+        "id": 9,
+        "name": "MongoDB"
+    },
+    {
+        "id": 9,
+        "name": "Cheerio"
+    },
+    {
+        "id": 9,
+        "name": "Axios"
+    },
+    {
+        "id": 10,
+        "name": "Mongoose"
+    },
+    {
+        "id": 11,
+        "name": "React"
+    },
+    {
+        "id": 13,
+        "name": "AWS S3"
+    },
+    {
+        "id": 13,
+        "name": "Passport"
+    },
+    {
+        "id": 13,
+        "name": "Bcrypt"
+    }
+]

@@ -1,0 +1,16 @@
+.categories-container {
+  border-radius: 6px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+#buttons-view {
+  text-align: center;
+}
+
+/* .categories-container:hover {
+  -webkit-transition: .1s;
+  transition: .1s;
+  box-shadow: 0 9px 12px #999, 0 9px 12px #999;
+} */

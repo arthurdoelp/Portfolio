@@ -1,0 +1,239 @@
+[
+  {
+    "id": 1,
+    "name": "Psychic Game",
+    "image": "../Images/Psychic-Game.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "description": "The Psychic game generates a random letter that the user needs to guess in ordert to win points.  Users have 8 guesses to correctly guess the letter.  There are variables to keep track of wins, losses and guesses left.",
+    "github": "https://github.com/arthurdoelp/Psychic-Game",
+    "link": "https://arthurdoelp.github.io/Psychic-Game/" 
+  },
+  {
+    "id": 2,
+    "name": "Wine Variety Word Guess Game",
+    "image": "../Images/Word-Guess-Game.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ],
+    "description": "This is the word Guess Game. It is like hangman but the theme is wine varieties. The goal is to correctly guess all of the letters of the specific wine varietal to win a point. There is a display that will dynamically fill in the letters of the word as they are guessed.",
+    "github": "https://github.com/arthurdoelp/Word-Guess-Game",
+    "link": "https://arthurdoelp.github.io/Word-Guess-Game/" 
+  },
+  {
+    "id": 3,
+    "name": "Billy Crystal Counter Game",
+    "image": "../Images/unit-4-game.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery"
+    ],
+    "description": "This is the Billy Crystal Counting Game. The goal of the game is to use the different pictures of Billy Crystal, which each have a secret randomly generated value to correctly count exactly to the target number to win.",
+    "github": "https://github.com/arthurdoelp/unit-4-game",
+    "link": "https://arthurdoelp.github.io/unit-4-game/" 
+  },
+  {
+    "id": 4,
+    "name": "Wine Trivia Game",
+    "image": "../Images/Trivia-Game.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery"
+    ],
+    "description": "This is a wine trivia quiz game. The wine trivia game is a simple quiz game with a series of questions. Each question has a 30 second timer to answer the question. Once completed the app will display the results.",
+    "github": "https://github.com/arthurdoelp/TriviaGame",
+    "link": "https://arthurdoelp.github.io/TriviaGame/" 
+  },
+  {
+    "id": 5,
+    "name": "Giphy Api Emoji App",
+    "image": "../Images/Giphy-API.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "APIs",
+      "AJAX"
+    ],
+    "description": "This app displays a series of emojis that can when clicked query the Giphy api to create a list of Gifs that mimic the emotion expressed by the emoji. Users can also input their own buttons of emotions that when clicked will generate a series of Gifs related to the emotion.",
+    "github": "https://github.com/arthurdoelp/Giphy-API",
+    "link": "https://arthurdoelp.github.io/Giphy-API/" 
+  },
+  {
+    "id": 6,
+    "name": "Venice Ferry Scheduler",
+    "image": "../Images/Ferry-Scheduler.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "APIs",
+      "AJAX",
+      "Firebase",
+      "Moment.js"
+    ],
+    "description": "This app displays a user created ferry schedule in Venice, Italy.  This uses the user input from a form to store inputs in a firebase databse and represent the data in a form at the top of the page.  There are also a weahter api incorporated to display the current weather in Venice as well as the google maps api to display the location of Venice.",
+    "github": "https://github.com/arthurdoelp/Ferry-Scheduler",
+    "link": "https://arthurdoelp.github.io/Ferry-Scheduler/" 
+  },
+  {
+    "id": 7,
+    "name": "Party in my Pocket",
+    "image": "../Images/Party-in-my-Pocket.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "APIs",
+      "AJAX"
+    ],
+    "description": "This app uses the CocktailDB to gather user inputs of cocktail ingredients to related cocktails containing the ingredients.  It also uses the Spotify API to create curated playlists for each of the cocktails to set the party mood of the cocktail. There is also the Giphy API to display a related Gif as well as the Wikipedia API to share trivia information witht the user.  There is also a 'save cocktail' feature to save cocktails that the user likes to the browser local storage.",
+    "github": "https://github.com/arthurdoelp/Cocktails",
+    "link": "https://arthurdoelp.github.io/Cocktails/"
+  },
+  {
+    "id": 8,
+    "name": "FriendFinder",
+    "image": "../Images/Friend-Finder.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "AJAX",
+      "Node",
+      "Express",
+      "SQL"
+    ],
+    "description": "The Friend Finder app generates a simple quiz asking a series of questions relating to the user's interests. Once completed, the results from the quiz will generate a wine varietal that most closely relates to the personality of the user. The goal of the app is to match users with their perfect varietal of wine.",
+    "github": "https://github.com/arthurdoelp/FriendFinder",
+    "link": "https://friendfinder-adoelp.herokuapp.com"
+  },
+  {
+    "id": 9,
+    "name": "Drink-da-Wine",
+    "image": "../Images/Drink-Da-Wine.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "AJAX",
+      "Node",
+      "Express",
+      "SQL",
+      "ORM",
+      "Handlebars",
+      "MVC"
+    ],
+    "description": "The Drink-Da-Wine app is my first introduction to using Handlebars templates and a complete full-stack application. The idea is that with a basic form, users can add the different bottles of wine they have consumed or have yet to consume.  This is stored in a SQL database setup with express and node to update the status of the wines when desired.",
+    "github": "https://github.com/arthurdoelp/burger",
+    "link": "https://burger-adoelp.herokuapp.com"
+  },
+  {
+    "id": 10,
+    "name": "My Recipe Book",
+    "image": "../Images/My-Recipe-Book.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "AJAX",
+      "Node",
+      "Express",
+      "SQL",
+      "ORM",
+      "Handlebars",
+      "Sequelize"
+    ],
+    "description": "This app is a digital recipe card holder that allows users to create and store food and drink recipes.  It is a fully functioning full-stack app.  Using a series of technologies including a SQL database, handlebars, express, node, bootstrap, jQuery, CSS and HTML. This is my first full-stack application using the ORM Sequelize to develop basic CRUD functionality.",
+    "github": "https://github.com/arthurdoelp/P2P-Rentals",
+    "link": "https://lit-headland-39252.herokuapp.com"
+  },
+  {
+    "id": 11,
+    "name": "Wine-News-Scaper",
+    "image": "../Images/Wine-News-Scraper.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "JQuery",
+      "AJAX",
+      "Node",
+      "Express",
+      "ORM",
+      "Handlebars",
+      "MongoDB",
+      "Cheerio",
+      "MVC",
+      "Axios"
+    ],
+    "description": "The Wine-News-Scraper is my first use of the npm package cheerio to scrape news articles from the Food & Wine Magazine website. I used cheerio and axios to scrape the articles and then created a storage feature for users who would like to save articles that were scraped to reference in the future. That data was all stored in Mongo, which was my first exposure to using MongoDB.",
+    "github": "https://github.com/arthurdoelp/wine-news-scraper",
+    "link": "https://wine-news-scraper-adoelp.herokuapp.com"
+  },
+  {
+    "id": 12,
+    "name": "Clicky Game",
+    "image": "../Images/Clicky-Game.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "React"
+    ],
+    "description": "The Clicky Game is my first exposure to React.js. This app is entirely built with react and does not have a backend. I used components to create each element of the app. The goal is for the user to correctly guess the food tiles that have not been gueesed yet to increase the score. Each time a tile is clicked, the tiles are shuffled randomly to make it harder to remember which tiles have been clicked.",
+    "github": "https://github.com/arthurdoelp/clicky-game",
+    "link": "https://clicky-game-arthur-doelp.herokuapp.com"
+  },
+  {
+    "id": 13,
+    "name": "Tag-This App",
+    "image": "../Images/Tag-This-App.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "AJAX",
+      "Node",
+      "Express",
+      "React",
+      "ORM",
+      "MongoDB",
+      "Mongoose",
+      "MVC",
+      "Axios",
+      "AWS S3",
+      "Passport",
+      "Bcrypt"
+    ],
+    "description": "The Tag-This App is a full-stack MERN mobile app using the ORM Mongoose with MongoDB on the backend and React on the frontend to create a inventory management app for a major tag sale. The goal of the app is to make it easy for a user to scan a barcode and seamlessly reference products at the tag sale. The app is also an example of my first exposure to AWS S3 in order to easily save an images of products for future reference. Also using Passport and bcrypt, there is a user authorization functionality.",
+    "github": "https://github.com/mmrydz/tag-this-app",
+    "link": "https://tag-this-app.herokuapp.com/"
+  }
+]
