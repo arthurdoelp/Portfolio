@@ -87,7 +87,7 @@
       "Firebase",
       "Moment.js"
     ],
-    "description": "This app displays a user created ferry schedule in Venice, Italy.  This uses the user input from a form to store inputs in a firebase databse and represent the data in a form at the top of the page.  There are also a weahter api incorporated to display the current weather in Venice as well as the google maps api to display the location of Venice.",
+    "description": "This app displays a user created ferry schedule in Venice, Italy.  This uses the user input from a form to store inputs in a firebase databse and represent the data in a form at the top of the page.  There are also a weather api incorporated to display the current weather in Venice as well as the google maps api to display the location of Venice.",
     "github": "https://github.com/arthurdoelp/Ferry-Scheduler",
     "link": "https://arthurdoelp.github.io/Ferry-Scheduler/" 
   },
@@ -206,7 +206,7 @@
       "Bootstrap",
       "React"
     ],
-    "description": "The Clicky Game is my first exposure to React.js. This app is entirely built with react and does not have a backend. I used components to create each element of the app. The goal is for the user to correctly guess the food tiles that have not been gueesed yet to increase the score. Each time a tile is clicked, the tiles are shuffled randomly to make it harder to remember which tiles have been clicked.",
+    "description": "The Clicky Game is my first exposure to React.js. This app is entirely built with react and does not have a backend. I used components to create each element of the app. The goal is for the user to correctly guess the food tiles that have not been guessed yet to increase the score. Each time a tile is clicked, the tiles are shuffled randomly to make it harder to remember which tiles have been clicked.",
     "github": "https://github.com/arthurdoelp/clicky-game",
     "link": "https://clicky-game-arthur-doelp.herokuapp.com"
   },
@@ -232,7 +232,7 @@
       "Passport",
       "Bcrypt"
     ],
-    "description": "The Tag-This App is a full-stack MERN mobile app using the ORM Mongoose with MongoDB on the backend and React on the frontend to create a inventory management app for a major tag sale. The goal of the app is to make it easy for a user to scan a barcode and seamlessly reference products at the tag sale. The app is also an example of my first exposure to AWS S3 in order to easily save an images of products for future reference. Also using Passport and bcrypt, there is a user authorization functionality.",
+    "description": "The Tag-This App is a full-stack MERN mobile app using the ORM Mongoose with MongoDB on the backend and React on the frontend to create an inventory management app for a major tag sale. The goal of the app is to make it easy for a user to scan a barcode and seamlessly reference products at the tag sale. The app is also an example of my first exposure to AWS S3 in order to easily save an images of products for future reference. Also using Passport and bcrypt, there is a user authorization functionality.",
     "github": "https://github.com/mmrydz/tag-this-app",
     "link": "https://tag-this-app.herokuapp.com/"
   }
