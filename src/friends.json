@@ -235,5 +235,21 @@
     "description": "The Tag-This App is a full-stack MERN mobile app using the ORM Mongoose with MongoDB on the backend and React on the frontend to create an inventory management app for a major tag sale. The goal of the app is to make it easy for a user to scan a barcode and seamlessly reference products at the tag sale. The app is also an example of my first exposure to AWS S3 in order to easily save an images of products for future reference. Also using Passport and bcrypt, there is a user authorization functionality.",
     "github": "https://github.com/mmrydz/tag-this-app",
     "link": "https://tag-this-app.herokuapp.com/"
+  },
+  {
+    "id": 14,
+    "name": "USommelier",
+    "image": "../Images/USommelier.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "React",
+      "Firebase"
+    ],
+    "description": "USommelier is a wine knowledge studying app designed to teach users about wine regions, pairing practices and history to best prepare for sommelier exams or to gain general wine knowledge. The app uses React for the front end and is hosted using Google Firebase.",
+    "github": "hhttps://github.com/arthurdoelp/wine-quiz",
+    "link": "https://usommelier.com"
   }
 ]
