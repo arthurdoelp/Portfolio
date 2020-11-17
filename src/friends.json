@@ -249,7 +249,35 @@
       "Firebase"
     ],
     "description": "USommelier is a wine knowledge studying app designed to teach users about wine regions, pairing practices and history to best prepare for sommelier exams or to gain general wine knowledge. The app uses React for the front end and is hosted using Google Firebase.",
-    "github": "hhttps://github.com/arthurdoelp/wine-quiz",
+    "github": "https://github.com/arthurdoelp/wine-quiz",
     "link": "https://usommelier.com"
+  },
+  {
+    "id": 15,
+    "name": "Sofar Sounds Fan Engagement",
+    "image": "../Images/Sofar-Sounds-Fan-Engagement.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "Node",
+      "Express",
+      "React",
+      "ORM",
+      "PostgreSQL",
+      "Sequelize",
+      "MVC",
+      "Axios",
+      "Bcrypt",
+      "Facebook Auth",
+      "Google Auth",
+      "APIs",
+      "Moment.js",
+      "JSON Web Token"
+    ],
+    "description": "The Fan Engagement App is designed to increase data-points for artists online. Having an accredited place to show artists pages and their accomplishments (the events they performed at) along with feedback, tipping and rating. It starts to create a web for fans to follow and get excited about. The app also creates opportunities to track engagement to better calibrate lineups and venues to the fans’ interests.",
+    "github": "https://github.com/arthurdoelp/Fan-Engagement",
+    "link": "https://fan-engagement-adoelp.herokuapp.com/"
   }
 ]

@@ -16,83 +16,99 @@
         "name": "Javascript"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "JQuery"
     },
     {
-        "id": 4,
+        "id": 6,
         "name": "APIs"
     },
     {
-        "id": 4,
+        "id": 7,
         "name": "AJAX"
     },
     {
-        "id": 4,
+        "id": 8,
         "name": "Moment.js"
     },
     {
-        "id": 4,
+        "id": 9,
         "name": "Node"
     },
     {
-        "id": 4,
+        "id": 10,
         "name": "Express"
     },
     {
-        "id": 4,
+        "id": 11,
         "name": "SQL"
     },
     {
-        "id": 6,
+        "id": 12,
         "name": "Firebase"
     },
     {
-        "id": 4,
+        "id": 13,
         "name": "ORM"
     },
     {
-        "id": 8,
+        "id": 14,
         "name": "Handlebars"
     },
     {
-        "id": 8,
+        "id": 15,
         "name": "MVC"
     },
     {
-        "id": 5,
+        "id": 16,
         "name": "Sequelize"
     },
     {
-        "id": 9,
+        "id": 17,
         "name": "MongoDB"
     },
     {
-        "id": 9,
+        "id": 18,
         "name": "Cheerio"
     },
     {
-        "id": 9,
+        "id": 19,
         "name": "Axios"
     },
     {
-        "id": 10,
+        "id": 20,
         "name": "Mongoose"
     },
     {
-        "id": 11,
+        "id": 21,
         "name": "React"
     },
     {
-        "id": 13,
+        "id": 22,
         "name": "AWS S3"
     },
     {
-        "id": 13,
+        "id": 23,
         "name": "Passport"
     },
     {
-        "id": 13,
+        "id": 24,
         "name": "Bcrypt"
+    },
+    {
+        "id": 25,
+        "name": "PostgreSQL"
+    },
+    {
+        "id": 26,
+        "name": "Facebook Auth"
+    },
+    {
+        "id": 27,
+        "name": "Google Auth"
+    },
+    {
+        "id": 28,
+        "name": "JSON Web Token"
     }
 ]
