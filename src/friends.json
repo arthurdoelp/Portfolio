@@ -323,7 +323,7 @@
       "Google BigQuery",
       "Selenium"
     ],
-    "description": "The Social Music Discovery project is my first experience into Google BigQuery and running a major data collection script. In this project, I collected data on TikTok videos targetting new music related hashtags to detect recently released songs and subsequently forecast their future performance. I monitored these songs for performance across 18 metrics. My biggest issue was getting blocked by TikTok when trying to scale up the script to collect measurable amounts of data.",
+    "description": "The Social Music Discovery project is my first experience into Google BigQuery and running a major data collection script. In this project, I collected data on TikTok videos targetting new music related hashtags to detect recently released songs and subsequently forecast their future performance. I monitored these songs for performance across 18 metrics. The biggest issue was getting blocked by TikTok when trying to scale up the script to collect measurable amounts of data.",
     "github": "https://github.com/arthurdoelp/social-music-discovery",
     "link": "https://github.com/arthurdoelp/social-music-discovery"
   },
