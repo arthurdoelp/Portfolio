@@ -279,5 +279,83 @@
     "description": "The Fan Engagement App is designed to increase data-points for artists online. Having an accredited place to show artists pages and their accomplishments (the events they performed at) along with feedback, tipping and rating. It starts to create a web for fans to follow and get excited about. The app also creates opportunities to track engagement to better calibrate lineups and venues to the fans’ interests.",
     "github": "https://github.com/arthurdoelp/Fan-Engagement",
     "link": "https://fan-engagement-adoelp.herokuapp.com/"
+  },
+  {
+    "id": 16,
+    "name": "Predicting Handwriting",
+    "image": "../Images/Predicting-Handwriting.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "Node",
+      "Express",
+      "React",
+      "MVC",
+      "Axios",
+      "APIs",
+      "Python",
+      "OpenCV",
+      "SkLearn",
+      "Pandas",
+      "Numpy",
+      "Computer Vision",
+      "Multer",
+      "Child Process"
+    ],
+    "description": "The Predicting Handwriting app is a mobile web app designed to showcase how a machine learning model could predict a handwritten digit. The app uses a digital signature pad to convert the drawing of a handwritten digit into an image which could then be compared to the Mnist dataset of handwritten digits. By comparing the input to the dataset, it can predict the actual value of that digit. This is a demonstration of showing how to convert drawings to digital values.",
+    "github": "https://github.com/arthurdoelp/predicting-handwriting",
+    "link": "https://predicting-handwriting-adoelp.herokuapp.com"
+  },
+  {
+    "id": 17,
+    "name": "Social Music Discovery",
+    "image": "../Images/Social-Music-Discovery.png",
+    "category": [
+      "APIs",
+      "TikTok Api",
+      "Spotify Api",
+      "Python",
+      "Pandas",
+      "Numpy",
+      "Child Process",
+      "Google BigQuery",
+      "Selenium"
+    ],
+    "description": "The Social Music Discovery project is my first experience into Google BigQuery and running a major data collection script. In this project, I collected data on TikTok videos targetting new music related hashtags to detect recently released songs and subsequently forecast their future performance. I monitored these songs for performance across 18 metrics. My biggest issue was getting blocked by TikTok when trying to scale up the script to collect measurable amounts of data.",
+    "github": "https://github.com/arthurdoelp/social-music-discovery",
+    "link": "https://github.com/arthurdoelp/social-music-discovery"
+  },
+  {
+    "id": 18,
+    "name": "Music Vision",
+    "image": "../Images/Music-Vision.png",
+    "category": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Bootstrap",
+      "Node",
+      "Express",
+      "React",
+      "MVC",
+      "Axios",
+      "APIs",
+      "Python",
+      "OpenCV",
+      "SkLearn",
+      "Pandas",
+      "Numpy",
+      "Computer Vision",
+      "Matplotlib",
+      "Multer",
+      "Child Process",
+      "Cloudinary",
+      "Audiosegment"
+    ],
+    "description": "The purpose of the Music Vision App is to better understand what drives popularity of songs. With a better idea of the key metrics that help to shape a song’s popularity, these metrics can be used to assess historical song performance and subsequently forecast future new song performance. The problem is that there is no clear method to identify popularity metrics, measure these metrics in an accurate way and subsequently use these metrics to predict new song performance. With the help of unsupervised (K-Means) and supervised (Linear Regression) machine learning algorithms, I intend to develop a solution that would provide insight and statistical analysis in a non-technical format for people to understand the potential performance of new songs.",
+    "github": "https://github.com/arthurdoelp/music-vision",
+    "link": "https://www.arthurdoelp.com/music-vision"
   }
 ]

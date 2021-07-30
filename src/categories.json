@@ -110,5 +110,65 @@
     {
         "id": 28,
         "name": "JSON Web Token"
+    },
+    {
+        "id": 29,
+        "name": "Python"
+    },
+    {
+        "id": 30,
+        "name": "OpenCV"
+    },
+    {
+        "id": 31,
+        "name": "SkLearn"
+    },
+    {
+        "id": 32,
+        "name": "Pandas"
+    },
+    {
+        "id": 33,
+        "name": "Numpy"
+    },
+    {
+        "id": 34,
+        "name": "Computer Vision"
+    },
+    {
+        "id": 35,
+        "name": "Multer"
+    },
+    {
+        "id": 36,
+        "name": "Child Process"
+    },
+    {
+        "id": 37,
+        "name": "TikTok Api"
+    },
+    {
+        "id": 38,
+        "name": "Spotify Api"
+    },
+    {
+        "id": 39,
+        "name": "Google BigQuery"
+    },
+    {
+        "id": 40,
+        "name": "Selenium"
+    },
+    {
+        "id": 41,
+        "name": "Matplotlib"
+    },
+    {
+        "id": 42,
+        "name": "Cloudinary"
+    },
+    {
+        "id": 43,
+        "name": "Audiosegment"
     }
 ]
